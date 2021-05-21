@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+.container ::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
 /* intestazione */
 .heading{
     background-color: #000;
@@ -13,3 +19,9 @@
 
 /* fine intestazione */
 
+/* jumbo */
+.image-slider{
+    background-color: blue;
+    height: 500px;
+    width: 100%;
+}
