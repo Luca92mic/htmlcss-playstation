@@ -4,17 +4,14 @@
     box-sizing: border-box;
 }
 
-.container ::after{
-    content: '';
-    display: table;
-    clear: both;
-}
-
 /* intestazione */
 .heading{
     background-color: #000;
     height: 30px;
+}
 
+.logo-sony{
+    max-width: 50px;
 }
 
 /* fine intestazione */
