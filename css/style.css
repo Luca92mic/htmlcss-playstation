@@ -1,9 +1,3 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 /* intestazione */
 .heading{
     background-color: #000;
@@ -17,8 +11,3 @@
 /* fine intestazione */
 
 /* jumbo */
-.image-slider{
-    background-color: blue;
-    height: 500px;
-    width: 100%;
-}
