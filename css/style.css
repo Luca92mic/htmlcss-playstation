@@ -34,3 +34,18 @@ h2{
 
 
 /* fine play */
+
+/* nuove uscite */
+#new-game{
+    background-color: #1f1f1f;
+}
+
+.title-new{
+    color: white;
+    padding: 30px 20px;
+}
+
+.text-game{
+    color: white;
+}
+/* fine nuove uscite */
