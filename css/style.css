@@ -49,3 +49,18 @@ h2{
     color: white;
 }
 /* fine nuove uscite */
+
+/* play plus */
+#playplus{
+    background-color: #bebcbb;
+}
+
+.logo-play{
+    max-width: 400px;
+}
+
+.btn-play{
+    background-color: #d9dadc;
+    color: #0474ce;
+}
+/* fine play plus */
