@@ -62,6 +62,7 @@ h2{
 .btn-play{
     background-color: #d9dadc;
     color: #0474ce;
+    border: none;
 }
 /* fine play plus */
 
@@ -86,3 +87,36 @@ h2{
     background-color: #d9dadc;
     color: black;
 }
+/* fine banner now */
+
+/* footer */
+#footer-link{
+    background-color: #00439c;
+    color: white;
+}
+
+.icon-world{
+    max-width: 40px;
+}
+
+.logo-footer{
+    max-width: 80px;
+}
+
+.country{
+    color: white;
+}
+
+.sie{
+    max-width: 150px;
+}
+
+.footer-text{
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+ul{
+    list-style: none;
+}
+/* fine footer */
