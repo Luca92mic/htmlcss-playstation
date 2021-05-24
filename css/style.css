@@ -64,3 +64,25 @@ h2{
     color: #0474ce;
 }
 /* fine play plus */
+
+/* banner now */
+#jumbotron-little{
+    background-color: #161c3b;
+}
+
+.jumbo-little{
+    max-width: 300px;
+}
+
+.logo-playnow{
+    max-width: 400px;
+}
+
+.now-text{
+    color: white;
+}
+
+.btn-now{
+    background-color: #d9dadc;
+    color: black;
+}
