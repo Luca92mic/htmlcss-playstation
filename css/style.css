@@ -12,9 +12,14 @@
 
 /* jumbo */
 .col-game{
-    max-width: 150px;
+    max-width: 250px;
     margin-top: 20px;
     border-radius: 20px;
+}
+
+.game-one{
+    border: 2px solid #0474ce;
+    padding: 4px;
 }
 /* fine jumbo */
 
@@ -32,6 +37,15 @@ h2{
     border-radius: 20px;
 }
 
+.game-ps5{
+    max-width: 150px;
+    margin-bottom: 50px;
+}
+
+.console-ps5{
+    border-bottom: 2px solid #0474ce;
+    border-radius: 0;
+}
 
 /* fine play */
 
